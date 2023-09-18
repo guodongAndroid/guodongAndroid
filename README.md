@@ -1,16 +1,21 @@
-### Hi there 👋
+# 基本信息 Basic Information
 
-<!--
-**guodongAndroid/guodongAndroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一只开发两年半的菜鸡工程师
 
-Here are some ideas to get you started:
+# 个人频道 Channels
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **GitHub**: [guodongAndroid](https://github.com/guodongAndroid)
+* **BiliBili：[孫小逗](https://space.bilibili.com/10827596)**
+* **专栏：[guodongAndroid](https://book.sunxiaodou.com)**
+* **微信公众号：「guodongAndroid」**
+
+# 技能概述 Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guodongAndroid&hide=HTML,css,php&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guodongAndroid&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# 相关网站 Related Websites
+
+**个人主页/Personal Website**：https://sunxiaodou.com
+**GitHub**：https://github.com/guodongAndroid
